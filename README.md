@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cotutorial/content/blob/master/logo.png" style="text-align:center; width:100%;"><br><br>
+  <img src="https://github.com/cotutorial/cotutorial/blob/master/logo.png" style="text-align:center; width:100%;"><br><br>
 </div>
 
 --------------------------------------
