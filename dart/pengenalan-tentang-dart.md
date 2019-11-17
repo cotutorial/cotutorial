@@ -1,12 +1,15 @@
 ---
 title: Pengenalan Tentang Dart
 date: 2019-10-18T19:31:13+07:00
-banner: /img/dart-pengenalan.webp
+banner: /img/post/dart_pengenalan.webp
+jpg: /img/post/jpg/dart_pengenalan.jpg
 draft: false
 categories:
   - dart
 tags:
   - dart
+  - intro
+  - pengenalan
 author: 
 - saputrago  
 description: Dart merupakan bahasa pemrograman general-pupose yang dirancang oleh Lars Bak dan Kasper Lund dan dikembangkan oleh Google.
@@ -66,6 +69,7 @@ main() {
 ```
 
 jika kode tersebut dijalankan maka akan mengasilkan output berikut:
+
 ```bash
 Hello, World!
 ```

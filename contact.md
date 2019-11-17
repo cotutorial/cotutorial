@@ -2,9 +2,6 @@
 title: Contact 📨️
 noTimeEstimate: true
 url: /contact/
-aliases:
-  - /contact-me/
-  - /get-in-touch/
 page: true
 ---
 
