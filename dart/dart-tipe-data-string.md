@@ -6,6 +6,7 @@ banner: /img/post/dart_tipe_data_string.webp
 jpg: /img/post/jpg/dart_tipe_data_string.jpg
 categories:
   - dart
+description: Tipe data String yaitu sekumpulan karakter. Pada tipe data ini biasanya mempresentasikan sebuah teks. String ini menggunakan unit kode UTF-16. String pada Dart bisa menyimpan data dari satu line sampai multiline(beberapa baris). 
 tags:
   - dart
   - basic

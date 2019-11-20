@@ -117,7 +117,7 @@ Method |Deskripsi
 [floorToDouble()](#floortodouble) | Mengembalikan pembulatan kecil ke **double**
 [round()](#round) | Mengembalikan pembulatan ke angka terdekat
 [roundToDouble()](#roundtodouble) | Mengembalikan pembulatan ke angka terdekat ke **double**
-[toString()](#tostring) | Mengembalikan nilai ke **String**
+[toString()](#method-tostring) | Mengembalikan nilai ke **String**
 [toDouble()](#todouble) | Mengembalikan nilai ke **double**
 [toInt()](#toint) | Mengembalikan nilai ke **int**
 [truncate()](#truncate) | Mengembalikan nilai **int** dengan menghilangkan koma
@@ -225,7 +225,7 @@ pada method ini hampir sama dengan method `round()` cuma perbadaannya pada outpu
 ```
 
 ---
-### toString()
+### Method toString()
 ```dart
 void main (){
   int n = 34;

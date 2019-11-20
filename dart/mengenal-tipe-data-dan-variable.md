@@ -41,6 +41,26 @@ Pada variabel juga ada persyaratannya, untuk menghindari kesalahan manusia. Adap
 2. Pengidentifikasi variabel boleh ada angka, tapi tidak boleh pada awal kata, contoh `3nama`
 3. Pengidentifikasi variabel tidak boleh pakai spasi dan karakter khusus kecuali tanda underscore (_).
 
+### Bagaimana implementasi variabel?
+Cara menggunakan variabel membutuhkan keyword `var`. Pada variabel ini tipe data bisa berupa apa aja tanpa menuliskan tipe data tersebut. Berikut contoh sintaksnya:
+
+```dart
+var nama_variabel
+```
+contoh penerapan dari variabel ini:
+```dart
+void main() {
+  var p = 12;
+  print(p);
+  var s = "Hello";
+  print(s);
+}
+```
+output: 
+```
+12
+Hello
+```
 ## Tipe Data
 **Tipe Data** adalah jenis nilai yang tersimpan pada suatu variabel. Yang berarti jenis atau tipe suatu variabel itu dinamakan tipe data. Adapun jenis-jenis tipe data pada Dart yaitu:
 
